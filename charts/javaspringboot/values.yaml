@@ -1,0 +1,9 @@
+---
+replicaCount: 3
+image:
+  repository: ghcr.io/sandeepshankar1094-creator/java-springboot
+  tag: latest
+  pullPolicy: IfNotPresent
+service:
+  type: ClusterIP
+  port: 8080

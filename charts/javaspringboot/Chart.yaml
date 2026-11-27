@@ -1,0 +1,7 @@
+---
+apiVersion: v2
+name: javaspringboot
+description: Helm chart for javaspringboot
+type: application
+version: 0.1.0
+appVersion: 1.0.0
